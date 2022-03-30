@@ -11,6 +11,13 @@
     .destaques__categorias{
         grid-column: 1 / 5;
     }
+    .populares__contenido{
+        flex-direction: column;
+    }
+    .populares__card{
+        width: 100%;
+        margin-bottom: 3rem;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
